@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    eco_exception_notification (3.0.0.rc1)
+    eco_exception_notification (3.0.0)
       actionmailer (>= 3.0.4)
 
 GEM

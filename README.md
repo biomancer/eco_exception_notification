@@ -1,4 +1,4 @@
-Code forked from https://github.com/smartinez87/exception_notification 05864d4852
+Code forked from https://github.com/smartinez87/exception_notification 05864d4852 and updated to aa1052f032
 So we can remove tinder GEM requirement for Campfire integration. It requires EventMachine which is more than we need.
 
 ===
